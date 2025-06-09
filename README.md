@@ -1,19 +1,19 @@
-# Trabajo Integrador de Programacion 1 
+# Trabajo Integrador de Programación 1 
 
-_Este trabajo esta orientado en algoritmos busquedas y ordenamineto_
+_Este trabajo esta orientado en algoritmos busqueda y ordenamiento_
 
-## Integrante/Comision del Trabajo Integrador
+## Integrante/Comisión del Trabajo Integrador
 
-_Comision: 9_
+_Comisión: 9_
 
-_Nombre de los integrantes: Verdun, Walter Zarate, Lucas_
+_Nombre de los integrantes: Verdun Walter, Zarate Lucas_
 
 ## Tema Algoritmo de ordenamiento 
-_Esta basado en la creacion de una lista, la cuala se ordena con bubble sort y quick sort, utilizando la busqueda binaria_
+_Esta basado en la creación de una lista, la cual se ordena con bubble sort y quick sort, utilizando la busqueda binaria_
 
 ### Instalación 🔧
 
-_Clonar el repositori_
+_Clonar el repositorio_
 
 ```
 git clone https://github.com/walter404/TP_Integrador_Programacion1.git
