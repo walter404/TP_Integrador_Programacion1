@@ -5,6 +5,7 @@ _Este trabajo esta orientado en algoritmos busquedas y ordenamineto_
 ## Integrante/Comision del Trabajo Integrador
 
 _Comision: 9_
+
 _Nombre de los integrantes: Verdun, Walter Zarate, Lucas_
 
 ## Tema Algoritmo de ordenamiento 
