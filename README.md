@@ -35,4 +35,4 @@ _Para ejecutar el proyecto debe ejecutar en su terminal de IDE_
 python main.py
 ```
 ## Link de video explicativo en youtube
-[https://www.youtube.com/watch?v=BwYgFuAktAs]
+https://www.youtube.com/watch?v=D0olpJqYPys
