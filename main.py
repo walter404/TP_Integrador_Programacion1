@@ -14,13 +14,13 @@ def generar_productos(cantidad):
         matriz.append([nombre, vitamina, precio])
     return matriz
 
-matriz = generar_productos(100)
+matriz = generar_productos(10)
 
 # Copias para ordenar
 matriz_bubble = matriz.copy()
 matriz_quick = matriz.copy()
 
-# Ordenamientos bubble sort por nombre
+# Ordenamientos bubble sort por vitamina
 inicio_bubble = time.time()
 bubble_sort(matriz_bubble)
 fin_bubble = time.time()
